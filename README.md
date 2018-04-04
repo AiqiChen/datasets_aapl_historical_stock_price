@@ -2,9 +2,17 @@
 ## Apple Stock Price
 Description:
 
-Business Questions:
-1.	Which date has the highest close stock price?
-2.	Which date has the lowest stock price?
-3.	Which date has the highest volume?
-4.	What are the differences between open price and close price in April 2013?
-5.	Which 10 dates have the most volume in 2013?
+# Questions #1:
+Which 10 dates have the highest close stock price in 2013?
+
+# Questions #2:
+Which 10 dates have the lowest stock price in 2012?
+
+# Questions #3:
+Which 10 dates have the highest volume in 2013?
+
+# Questions #4:
+Which 10 dates have the lowest open price in 2012?
+
+# Questions #5:
+How many ?
