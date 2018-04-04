@@ -13,6 +13,7 @@ group by date
 order by Highest_Close_Price DESC
 limit 10
 ```
+![datasets_aapl_historical_stock_price](visualization/q1.png)
 
 ## Questions #2:
 Which 10 dates have the lowest stock price in 2012?
