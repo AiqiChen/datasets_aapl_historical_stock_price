@@ -64,4 +64,5 @@ From datasets.aapl_historical_stock_price
 group by year
 order by year ASC
 ```
+![datasets_aapl_historical_stock_price](visualizations/Q5.png)
 
