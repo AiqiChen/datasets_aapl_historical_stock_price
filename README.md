@@ -1,6 +1,8 @@
-
+![datasets_aapl_historical_stock_price](visualizations/Apple.png)
 # Apple Stock Price
-Description:
+
+## Description: 
+The datasets contain apple historical stock price, which is apple open, close, high, and low stock price. It also contains the volume of each day. 
 
 ## Questions #1:
 Which 10 dates have the highest close stock price in 2013?
@@ -29,6 +31,7 @@ limit 10
 ```
 ![datasets_aapl_historical_stock_price](visualizations/Q2.png)
 
+
 ## Questions #3:
 Which 10 dates have the highest volume in 2013?
 ```sql
@@ -42,6 +45,7 @@ limit 10
 ```
 ![datasets_aapl_historical_stock_price](visualizations/Q3.png)
 
+
 ## Questions #4:
 Which 10 dates have the lowest open price in 2012?
 ```sql
@@ -54,6 +58,7 @@ order by Lowest_Open_Price ASC
 limit 10
 ```
 ![datasets_aapl_historical_stock_price](visualizations/Q4.png)
+
 
 ## Questions #5:
 What is the average open stock price of each year?
