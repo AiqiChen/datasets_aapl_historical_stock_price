@@ -56,4 +56,12 @@ limit 10
 ![datasets_aapl_historical_stock_price](visualizations/Q4.png)
 
 ## Questions #5:
-How many ?
+What is the average open stock price of each year?
+```sql
+SELECT
+avg(open) as Avg_Open_Price, year
+From datasets.aapl_historical_stock_price
+group by year
+order by year ASC
+```
+
